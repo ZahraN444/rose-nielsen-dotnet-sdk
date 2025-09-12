@@ -2,9 +2,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CypressTestAPI.Standard", "CypressTestAPI.Standard/CypressTestAPI.Standard.csproj", "{a3c3316e-bbb2-429f-9985-7468bb7a91e6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CypressTestAPI.Standard", "CypressTestAPI.Standard/CypressTestAPI.Standard.csproj", "{ede0d760-9c1c-4d73-98d9-31c91564e2eb}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CypressTestAPI.Tests", "CypressTestAPI.Tests/CypressTestAPI.Tests.csproj", "{a1b5bc0c-157d-4572-ab84-3001da111465}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CypressTestAPI.Tests", "CypressTestAPI.Tests/CypressTestAPI.Tests.csproj", "{d1965566-8d13-4732-abfb-d7c5d83ba3c7}"
 EndProject
 Global
     GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,14 +12,14 @@ Global
         Release|Any CPU = Release|Any CPU
     EndGlobalSection
     GlobalSection(ProjectConfigurationPlatforms) = postSolution
-        {a3c3316e-bbb2-429f-9985-7468bb7a91e6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-        {a3c3316e-bbb2-429f-9985-7468bb7a91e6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-        {a3c3316e-bbb2-429f-9985-7468bb7a91e6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-        {a3c3316e-bbb2-429f-9985-7468bb7a91e6}.Release|Any CPU.Build.0 = Release|Any CPU
-        {a1b5bc0c-157d-4572-ab84-3001da111465}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-        {a1b5bc0c-157d-4572-ab84-3001da111465}.Debug|Any CPU.Build.0 = Debug|Any CPU
-        {a1b5bc0c-157d-4572-ab84-3001da111465}.Release|Any CPU.ActiveCfg = Release|Any CPU
-        {a1b5bc0c-157d-4572-ab84-3001da111465}.Release|Any CPU.Build.0 = Release|Any CPU
+        {ede0d760-9c1c-4d73-98d9-31c91564e2eb}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {ede0d760-9c1c-4d73-98d9-31c91564e2eb}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {ede0d760-9c1c-4d73-98d9-31c91564e2eb}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {ede0d760-9c1c-4d73-98d9-31c91564e2eb}.Release|Any CPU.Build.0 = Release|Any CPU
+        {d1965566-8d13-4732-abfb-d7c5d83ba3c7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {d1965566-8d13-4732-abfb-d7c5d83ba3c7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {d1965566-8d13-4732-abfb-d7c5d83ba3c7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {d1965566-8d13-4732-abfb-d7c5d83ba3c7}.Release|Any CPU.Build.0 = Release|Any CPU
     EndGlobalSection
     GlobalSection(SolutionProperties) = preSolution
         HideSolutionNode = FALSE
