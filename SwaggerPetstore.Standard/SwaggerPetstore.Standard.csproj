@@ -9,13 +9,13 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <AssemblyName>ZahraNaseem.RoseNielsenSDK</AssemblyName>
-    <Version>0.1.1.0</Version>
+    <Version>0.1.4.0</Version>
     <Authors>ZahraNaseem</Authors>
     <Owners></Owners>
     <Product>SwaggerPetstore.Standard</Product>
     <Copyright>Copyright ©  2019</Copyright>
-    <AssemblyVersion>0.1.1.0</AssemblyVersion>
-    <FileVersion>0.1.1.0</FileVersion>
+    <AssemblyVersion>0.1.4.0</AssemblyVersion>
+    <FileVersion>0.1.4.0</FileVersion>
     <Description>Eiusmod facilis quis</Description>
     <LangVersion>7.3</LangVersion>
     <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
